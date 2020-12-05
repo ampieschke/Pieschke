@@ -5,7 +5,15 @@
 }
 
 h3{
-    color:#2C3F8F ;
+    color:#2C3F8F;
+    font-weight: bold;
+}
+
+.card-img{
+    height: 200px;
+    width: 250px;
+    margin-right: 10px;
+    float: left;
 }
 
 button{
