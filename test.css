@@ -8,11 +8,13 @@ button{
     color: #A6D2F9 !important;
 }
 body{
-    background-color: #A6D2F9;
+    background-color: #f1e7d9;
 }
 footer{
     background-color:#5E90C9 ;
     color: #A6D2F9;
+    bottom: 0;
+    width: 100%;
 }
 
 .navbar{
@@ -32,7 +34,5 @@ footer{
 }
 
 .port-pic{
-    height: 350px;
-    width: 350px;
     margin: 5px;
 }
