@@ -11,9 +11,15 @@ h3{
 
 .card-img{
     height: 200px;
-    width: 250px;
+    width: 200px;
     margin-right: 10px;
     float: left;
+}
+
+.port-pic{
+    height: 350px;
+    width: 350px;
+    margin: 5px;
 }
 
 button{
