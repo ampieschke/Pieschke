@@ -1,12 +1,27 @@
+h3{
+    color:#2C3F8F;
+    font-weight: bold;
+}
+button{
+    background-color:#2C3F8F !important;
+    border: #2C3F8F !important;
+    color: #A6D2F9 !important;
+}
+body{
+    background-color: #A6D2F9;
+}
+footer{
+    background-color:#5E90C9 ;
+    color: #A6D2F9;
+}
+
+.navbar{
+    background-color: #5E90C9 !important;
+}
 
 .content{
     margin: 100px 100px;
     padding: 10px 50px;
-}
-
-h3{
-    color:#2C3F8F;
-    font-weight: bold;
 }
 
 .card-img{
@@ -20,10 +35,4 @@ h3{
     height: 350px;
     width: 350px;
     margin: 5px;
-}
-
-button{
-    background-color:#2C3F8F !important;
-    border: #2C3F8F !important;
-    color: #A6D2F9 !important;
 }
