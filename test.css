@@ -2,7 +2,6 @@
 form{
     margin: 100px 100px;
     padding: 10px 50px;
-    border: 6 px red solid;
 }
 
 h3{
@@ -10,5 +9,7 @@ h3{
 }
 
 button{
-    background-color:#2C3F8F ;
+    background-color:#2C3F8F !important;
+    border: #2C3F8F !important;
+    color: #A6D2F9 !important;
 }

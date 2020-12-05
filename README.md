@@ -1,0 +1,1 @@
+Project purpose is to create a mobile responsive portfolio using Bootstrap CSS.
