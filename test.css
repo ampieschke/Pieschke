@@ -1,4 +1,4 @@
-h3{
+h2{
     color:#2C3F8F;
     font-weight: bold;
 }
@@ -24,6 +24,8 @@ footer{
 .content{
     margin: 100px 100px;
     padding: 10px 50px;
+    height:auto;
+    width:auto;
 }
 
 .card-img{
