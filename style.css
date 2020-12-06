@@ -1,0 +1,48 @@
+
+/* ==NAV== */
+.navbar{
+    background-color: #5E90C9 !important;
+}
+
+
+/* ==MAIN CONTENT== */
+.content{
+    margin-top: 100px;
+    padding: 10px 50px;
+}
+
+h2{
+    color:#2C3F8F;
+    font-weight: bold;
+}
+
+body{
+    background-color: #f1e7d9;
+}
+
+button{
+    background-color:#2C3F8F !important;
+    border: #2C3F8F !important;
+    color: #A6D2F9 !important;
+}
+
+/* ==IMAGES== */
+.card-img{
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+    float: left;
+}
+
+.port-pic{
+    margin: 5px;
+}
+
+/* ==FOOTER== */
+footer{
+    background-color:#5E90C9 ;
+    color: #A6D2F9;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
