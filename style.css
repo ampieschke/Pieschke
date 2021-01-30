@@ -3,6 +3,14 @@
   background-color: #5e90c9 !important;
 }
 
+.navbar-brand {
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
 /* ==MAIN CONTENT== */
 .content {
   margin-top: 50px;
@@ -28,6 +36,10 @@ body {
 
 .card {
   margin-bottom: 10px;
+}
+
+.card-img-top {
+  border-bottom: solid #2c3f8f 2px;
 }
 
 /* ==Bio Pic== */
