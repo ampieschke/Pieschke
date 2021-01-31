@@ -5,10 +5,12 @@
 
 .navbar-brand {
   color: white !important;
+  font-family: helvetica, sans-serif;
 }
 
 .nav-link {
   color: white !important;
+  font-family: helvetica, sans-serif;
 }
 
 /* ==MAIN CONTENT== */
@@ -20,11 +22,16 @@
 h2 {
   color: #2c3f8f;
   font-weight: bold;
+  font-family: helvetica, sans-serif;
 }
 
 body {
   background-color: #f1e7d9;
   margin-bottom: 120px;
+}
+
+p {
+  font-family: helvetica, sans-serif !important;
 }
 
 .btn {
